@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi! My name is Raghav Sriram and I am a second-year undergraduate at UC Irvine double majoring in computer science and biology. I’m driven by the intersection of computation and healthcare and am always seeking opportunities that combine these fields. Right now, I’m exploring these passions through my work as a Software Engineer Intern at Innervace, where I am developing data solutions for the startup, and as a researcher in the Lipkova Lab, where I'm using machine learning to analyze histological images of brain tissue.
+Hi! My name is Yashas Raman and I am a second-year undergraduate student at UC Irvine double majoring in computer science, with minors in statistics and bioinformatics. 
 
-In my free time, I enjoy exploring national parks and playing tennis, ping pong, or basketball. I also love to bike (let me know if you have any trail recommendations)!
+[LinkedIn](https://linkedin.com/in/yashas-raman-055a92302/)
+[Email](https://yramangk9@gmail.com)
+
