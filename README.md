@@ -1,4 +1,4 @@
-## YashasRaman
+## Yashas Raman
 
 <!--
 **yraman17/yraman17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi! My name is Raghav Sriram and I am a second-year undergraduate at UC Irvine double majoring in computer science and biology. I’m driven by the intersection of computation and healthcare and am always seeking opportunities that combine these fields. Right now, I’m exploring these passions through my work as a Software Engineer Intern at Innervace, where I am developing data solutions for the startup, and as a researcher in the Lipkova Lab, where I'm using machine learning to analyze histological images of brain tissue.
+
+In my free time, I enjoy exploring national parks and playing tennis, ping pong, or basketball. I also love to bike (let me know if you have any trail recommendations)!
