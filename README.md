@@ -24,6 +24,9 @@ Hi! My name is Yashas Raman and I am a second-year undergraduate student at UC I
 - **Data Science**
 - **Sports Analytics**
 
+  
+## 🤝 Let's Connect
+
 [LinkedIn](https://linkedin.com/in/yashas-raman-055a92302/)
 
 [Email](https://yramangk9@gmail.com)
