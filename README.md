@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 Hi! My name is Yashas Raman and I am a second-year undergraduate student at UC Irvine double majoring in computer science, with minors in statistics and bioinformatics. 
 
-[LinkedIn](https://linkedin.com/in/yashas-raman-055a92302/)\n
+[LinkedIn](https://linkedin.com/in/yashas-raman-055a92302/)
+
 [Email](https://yramangk9@gmail.com)
 
