@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi! My name is Yashas Raman and I am a second-year undergraduate student at UC Irvine double majoring in computer science, with minors in statistics and bioinformatics.
+Hi! My name is Yashas Raman and I am a second-year undergraduate student at UC Irvine majoring in computer science, with minors in statistics and bioinformatics.
 
 ## 🧠 Interests
 
