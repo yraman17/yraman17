@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 Hi! My name is Yashas Raman and I am a second-year undergraduate student at UC Irvine majoring in computer science, with a minor in statistics.
 ## 🧠 Interests
-
+- **Human-AI Interaction**
 - **Bioinformatics (CS x Bio)**
 - **AI & Machine Learning**  
 - **Software Engineering**
