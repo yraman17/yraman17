@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi! My name is Yashas Raman and I am a second-year undergraduate student at UC Irvine majoring in computer science, with a minor in statistics.
+Hi! My name is Yashas Raman and I am a Master's student at Brown University majoring in computer science,.
 ## 🧠 Interests
-- **Human-AI Interaction**
 - **Bioinformatics (CS x Bio)**
 - **AI & Machine Learning**  
 - **Software Engineering**
